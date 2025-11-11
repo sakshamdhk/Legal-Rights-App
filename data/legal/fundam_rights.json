@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "title": "Fundamental Rights - Constitution of India (Part III)",
+    "articles_range": "12-35",
+    "last_verified_sources": [
+      "Government of India - Part III PDF (Ministry of External Affairs / Constitution text)",
+      "Know India (official government portal)",
+      "Wikipedia (summary, for developer reference)"
+    ]
+  },
+  "fundamental_rights": [
+    {
+      "id": 1,
+      "name": "Right to Equality",
+      "articles": "14-18",
+      "short_description": "Equality before law; prohibition of discrimination on grounds of religion, race, caste, sex or place of birth; equality of opportunity in public employment; abolition of untouchability and titles.",
+      "justiciable": true,
+      "notes": [
+        "Article 14 — Equality before law and equal protection of laws",
+        "Article 15 — Prohibition of discrimination",
+        "Article 16 — Equality of opportunity in matters of public employment",
+        "Article 17 — Abolition of untouchability",
+        "Article 18 — Abolition of titles"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Right to Freedom",
+      "articles": "19-22",
+      "short_description": "Right to freedom including speech and expression, assembly, association, movement, residence, profession; protections in respect of conviction and arrest procedures.",
+      "justiciable": true,
+      "notes": [
+        "Article 19 — Six freedoms for citizens (speech & expression, assembly, association, movement, residence, profession)",
+        "Article 20 — Protection in respect of conviction for offences",
+        "Article 21 — Protection of life and personal liberty (right to life and personal liberty)",
+        "Article 22 — Protection against arrest and detention in certain cases"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Right against Exploitation",
+      "articles": "23-24",
+      "short_description": "Prohibition of traffic in human beings and forced labour; prohibition of employment of children in hazardous work.",
+      "justiciable": true,
+      "notes": [
+        "Article 23 — Prohibition of traffic in human beings and forced labour",
+        "Article 24 — Prohibition of employment of children in factories, etc."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Right to Freedom of Religion",
+      "articles": "25-28",
+      "short_description": "Freedom of conscience and right to freely profess, practice and propagate religion; freedom for religious denominations to manage their affairs; limitations subject to public order, morality and health.",
+      "justiciable": true,
+      "notes": [
+        "Article 25 — Freedom of conscience and free profession, practice & propagation of religion",
+        "Article 26 — Freedom to manage religious affairs",
+        "Article 27 — Freedom as to payment of taxes for promotion of any particular religion",
+        "Article 28 — Freedom as to attendance at religious instruction or religious worship in certain educational institutions"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Cultural and Educational Rights",
+      "articles": "29-30",
+      "short_description": "Protection of interests of minorities: conserve language, script or culture; right of minorities to establish and administer educational institutions.",
+      "justiciable": true,
+      "notes": [
+        "Article 29 — Protection of interests of minorities",
+        "Article 30 — Right of minorities to establish and administer educational institutions"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Right to Constitutional Remedies",
+      "articles": "32-35",
+      "short_description": "Right to move the Supreme Court / High Courts for enforcement of fundamental rights; Parliament powers relating to enactment of laws and restrictions in certain circumstances.",
+      "justiciable": true,
+      "notes": [
+        "Article 32 — Remedies for enforcement of rights (writs: habeas corpus, mandamus, prohibition, certiorari, quo warranto)",
+        "Articles 33-35 — Special provisions, restrictions during martial law, and Parliament's power to make laws"
+      ]
+    }
+  ]
+}
